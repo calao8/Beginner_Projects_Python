@@ -1,5 +1,6 @@
 import random
 
+#ASCII Arts
 rock = '''
     _______
 ---'   ____)
